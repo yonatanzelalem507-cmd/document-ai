@@ -14,7 +14,7 @@ p { color: white; }
 </style>
 """, unsafe_allow_html=True)
 
-client = Groq(api_key=st.secrets"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")
+client = Groq(api_key=st.secrets"8PMNSwfFe1Zrs6BKG6YdWGdyb3FYjc7mLbJFraHA2tIXK3SZmxuF")
 
 st.title("🏥 Global Care Medical Center")
 st.subheader("A Promise of Hope Through World Class Healthcare")
